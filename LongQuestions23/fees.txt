@@ -1,0 +1,3 @@
+
+Total fee = 0	Average fee = 0
+Total fee = 40	Average fee = 10
